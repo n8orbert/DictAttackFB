@@ -14,11 +14,17 @@ print("*************************************************************************
 print("")
 print("")
 print("")
+
+
+
+
 login = input('Please eneter login: ')
 browser = webdriver.Firefox()
 browser.get('https://www.facebook.com/login.php')
 
     
+
+
 class Attack:
 
     
